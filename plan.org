@@ -1,0 +1,12 @@
+* scdweb
+** Att göra
+*** TODO Inloggning i menyn
+*** TODO Användarhantering, placera användare i grupper
+*** TODO Skapa nya användare (registrering?)
+*** TODO Ingredienser i databasen
+*** TODO Ny grupp: redaktör
+    Får ändra i alla recept, får godkänna nya ingredienser, osv...
+*** TODO Ny grupp: författare
+    Får gör nya recept, får lägga in nya ingredienser men de måste godkännas
+    Får även redigera egna recept
+** Klart
